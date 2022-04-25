@@ -13,6 +13,26 @@ sites:
     url: $PBX2_IOGT
   - name: IOGT HOSTING
     url: $IOGT_CPANEL
+  - name: IO.GT DNS 1
+    check: "tcp-ping"
+    url: dns1.io.gt
+    port: 53
+  - name: IO.GT DNS 1
+    check: "tcp-ping"
+    url: dns1.io.gt
+    port: 53
+  - name: IO.GT DNS 2
+    check: "tcp-ping"
+    url: dns2.io.gt
+    port: 53
+  - name: IO.GT DNS 3
+    check: "tcp-ping"
+    url: dns3.io.gt
+    port: 53
+  - name: IO.GT DNS 4
+    check: "tcp-ping"
+    url: dns4.io.gt
+    port: 53
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
