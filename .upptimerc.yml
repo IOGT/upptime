@@ -5,8 +5,12 @@ repo: upptime # The name of this repository
 sites:
   - name: IO.GT MAIN SITE
     url: https://io.gt
+    expectedStatusCodes:
+      - 200
   - name: Client Area
     url: https://clientarea.io.gt
+    expectedStatusCodes:
+      - 200
   - name: PBX System 1
     url: $PBX_IOGT
   - name: PBX System 2
