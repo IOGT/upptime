@@ -40,10 +40,10 @@
     "url": "$PBX_IOGT",
     "icon": "https://favicons.githubusercontent.com/null",
     "slug": "pbx-system-1",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.95%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 257,
@@ -51,25 +51,28 @@
     "timeWeek": 262,
     "timeMonth": 266,
     "timeYear": 257,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2022-06-02": 1
+    }
   },
   {
     "name": "PBX System 2",
     "url": "$PBX2_IOGT",
     "icon": "https://favicons.githubusercontent.com/null",
     "slug": "pbx-system-2",
-    "status": "up",
-    "uptime": "99.27%",
-    "uptimeDay": "100.00%",
+    "status": "down",
+    "uptime": "99.28%",
+    "uptimeDay": "99.97%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.19%",
-    "uptimeYear": "99.27%",
+    "uptimeYear": "99.28%",
     "time": 248,
     "timeDay": 156,
     "timeWeek": 223,
     "timeMonth": 247,
     "timeYear": 248,
     "dailyMinutesDown": {
+      "2022-06-02": 0,
       "2022-05-06": 353,
       "2022-04-27": 17,
       "2022-04-26": 22
@@ -80,9 +83,9 @@
     "url": "$PBX3_IOGT",
     "icon": "https://favicons.githubusercontent.com/null",
     "slug": "pbx-system-dev",
-    "status": "up",
+    "status": "down",
     "uptime": "99.90%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.96%",
     "uptimeYear": "99.90%",
@@ -92,6 +95,7 @@
     "timeMonth": 297,
     "timeYear": 303,
     "dailyMinutesDown": {
+      "2022-06-02": 0,
       "2022-05-06": 18,
       "2022-04-26": 35
     }
