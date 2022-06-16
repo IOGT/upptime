@@ -59,18 +59,18 @@
     "icon": "https://favicons.githubusercontent.com/null",
     "slug": "pbx-system-2",
     "status": "down",
-    "uptime": "80.68%",
+    "uptime": "79.91%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
-    "uptimeMonth": "68.34%",
-    "uptimeYear": "80.68%",
+    "uptimeMonth": "66.73%",
+    "uptimeYear": "79.91%",
     "time": 244,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 241,
     "timeYear": 244,
     "dailyMinutesDown": {
-      "2022-06-16": 55,
+      "2022-06-16": 760,
       "2022-06-15": 1440,
       "2022-06-14": 1440,
       "2022-06-13": 1440,
@@ -184,10 +184,10 @@
     "url": "dns3.io.gt",
     "icon": "https://favicons.githubusercontent.com/null",
     "slug": "io-gt-dns-3",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.89%",
+    "uptimeWeek": "99.98%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 114,
@@ -195,16 +195,18 @@
     "timeWeek": 109,
     "timeMonth": 120,
     "timeYear": 114,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2022-06-16": 2
+    }
   },
   {
     "name": "IO.GT DNS 4",
     "url": "dns4.io.gt",
     "icon": "https://favicons.githubusercontent.com/null",
     "slug": "io-gt-dns-4",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -213,6 +215,8 @@
     "timeWeek": 114,
     "timeMonth": 116,
     "timeYear": 111,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2022-06-16": 0
+    }
   }
 ]
