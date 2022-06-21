@@ -5,18 +5,18 @@
     "icon": "https://favicons.githubusercontent.com/io.gt",
     "slug": "io-gt-main-site",
     "status": "down",
-    "uptime": "99.95%",
-    "uptimeDay": "99.97%",
-    "uptimeWeek": "99.60%",
-    "uptimeMonth": "99.91%",
-    "uptimeYear": "99.95%",
+    "uptime": "99.94%",
+    "uptimeDay": "99.27%",
+    "uptimeWeek": "99.50%",
+    "uptimeMonth": "99.88%",
+    "uptimeYear": "99.94%",
     "time": 440,
     "timeDay": 253,
     "timeWeek": 377,
     "timeMonth": 469,
     "timeYear": 440,
     "dailyMinutesDown": {
-      "2022-06-21": 0,
+      "2022-06-21": 11,
       "2022-06-16": 40
     }
   },
@@ -25,9 +25,9 @@
     "url": "https://clientarea.io.gt",
     "icon": "https://favicons.githubusercontent.com/clientarea.io.gt",
     "slug": "client-area",
-    "status": "up",
+    "status": "down",
     "uptime": "99.95%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.97%",
     "uptimeWeek": "99.60%",
     "uptimeMonth": "99.91%",
     "uptimeYear": "99.95%",
@@ -37,6 +37,7 @@
     "timeMonth": 747,
     "timeYear": 862,
     "dailyMinutesDown": {
+      "2022-06-21": 0,
       "2022-06-16": 41
     }
   },
@@ -66,7 +67,7 @@
     "status": "down",
     "uptime": "81.29%",
     "uptimeDay": "100.00%",
-    "uptimeWeek": "65.36%",
+    "uptimeWeek": "65.46%",
     "uptimeMonth": "66.13%",
     "uptimeYear": "81.29%",
     "time": 244,
