@@ -11,6 +11,10 @@ sites:
     url: https://clientarea.io.gt
     expectedStatusCodes:
       - 200
+  - name: IOGT CLOUD
+    url: $CLOUD_SERVER
+    expectedStatusCodes:
+      - 200
   - name: PBX System 1
     url: $PBX_IOGT
   - name: PBX System 2
