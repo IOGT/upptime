@@ -17,8 +17,6 @@ sites:
       - 200
   - name: PBX System 1
     url: $PBX_IOGT
-  - name: PBX System 2
-    url: $PBX2_IOGT
   - name: PBX System Dev
     url: $PBX3_IOGT
   - name: IOGT HOSTING
