@@ -46,18 +46,20 @@
     "url": "$CLOUD_SERVER",
     "icon": "https://favicons.githubusercontent.com/null",
     "slug": "iogt-cloud",
-    "status": "up",
-    "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
+    "status": "down",
+    "uptime": "99.99%",
+    "uptimeDay": "99.99%",
+    "uptimeWeek": "99.99%",
+    "uptimeMonth": "99.99%",
+    "uptimeYear": "99.99%",
     "time": 383,
     "timeDay": 328,
     "timeWeek": 383,
     "timeMonth": 383,
     "timeYear": 383,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2022-06-24": 0
+    }
   },
   {
     "name": "PBX System 1",
