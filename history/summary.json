@@ -53,11 +53,11 @@
     "icon": "https://favicons.githubusercontent.com/null",
     "slug": "iogt-cloud",
     "status": "up",
-    "uptime": "94.38%",
+    "uptime": "94.45%",
     "uptimeDay": "98.50%",
     "uptimeWeek": "99.79%",
-    "uptimeMonth": "94.38%",
-    "uptimeYear": "94.38%",
+    "uptimeMonth": "94.45%",
+    "uptimeYear": "94.45%",
     "time": 884,
     "timeDay": 2034,
     "timeWeek": 977,
@@ -174,9 +174,9 @@
     "url": "dns2.io.gt",
     "icon": "https://favicons.githubusercontent.com/null",
     "slug": "io-gt-dns-2",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -185,7 +185,9 @@
     "timeWeek": 132,
     "timeMonth": 137,
     "timeYear": 135,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2022-07-12": 0
+    }
   },
   {
     "name": "IO.GT DNS 3",
