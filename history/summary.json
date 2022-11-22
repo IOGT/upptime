@@ -4,9 +4,9 @@
     "url": "https://io.gt",
     "icon": "https://icons.duckduckgo.com/ip3/io.gt.ico",
     "slug": "io-gt-main-site",
-    "status": "up",
+    "status": "down",
     "uptime": "99.76%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.97%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.92%",
     "uptimeYear": "99.76%",
@@ -16,6 +16,7 @@
     "timeMonth": 485,
     "timeYear": 442,
     "dailyMinutesDown": {
+      "2022-11-22": 0,
       "2022-11-07": 34,
       "2022-09-28": 469,
       "2022-07-03": 20,
@@ -30,9 +31,9 @@
     "url": "https://clientarea.io.gt",
     "icon": "https://icons.duckduckgo.com/ip3/clientarea.io.gt.ico",
     "slug": "client-area",
-    "status": "up",
+    "status": "down",
     "uptime": "99.93%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.97%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.93%",
@@ -42,6 +43,7 @@
     "timeMonth": 611,
     "timeYear": 737,
     "dailyMinutesDown": {
+      "2022-11-22": 0,
       "2022-07-03": 20,
       "2022-06-30": 89,
       "2022-06-29": 24,
@@ -54,18 +56,19 @@
     "url": "$CLOUD_SERVER",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "iogt-cloud",
-    "status": "up",
-    "uptime": "91.65%",
-    "uptimeDay": "100.00%",
+    "status": "down",
+    "uptime": "91.68%",
+    "uptimeDay": "99.97%",
     "uptimeWeek": "100.00%",
-    "uptimeMonth": "95.97%",
-    "uptimeYear": "91.65%",
+    "uptimeMonth": "96.02%",
+    "uptimeYear": "91.68%",
     "time": 934,
     "timeDay": 445,
     "timeWeek": 510,
-    "timeMonth": 939,
+    "timeMonth": 954,
     "timeYear": 934,
     "dailyMinutesDown": {
+      "2022-11-22": 0,
       "2022-11-11": 1234,
       "2022-11-10": 286,
       "2022-11-08": 39,
@@ -133,9 +136,9 @@
     "url": "$IOGT_CPANEL",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "iogt-hosting",
-    "status": "up",
+    "status": "down",
     "uptime": "99.77%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.97%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.77%",
@@ -145,6 +148,7 @@
     "timeMonth": 2546,
     "timeYear": 1327,
     "dailyMinutesDown": {
+      "2022-11-22": 0,
       "2022-07-09": 702
     }
   },
@@ -153,9 +157,9 @@
     "url": "dns1.io.gt",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "io-gt-dns-1",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.97%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -164,16 +168,18 @@
     "timeWeek": 177,
     "timeMonth": 162,
     "timeYear": 140,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2022-11-22": 0
+    }
   },
   {
     "name": "IO.GT DNS 1",
     "url": "dns1.io.gt",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "io-gt-dns-1",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.97%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -182,16 +188,18 @@
     "timeWeek": 177,
     "timeMonth": 162,
     "timeYear": 140,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2022-11-22": 0
+    }
   },
   {
     "name": "IO.GT DNS 2",
     "url": "dns2.io.gt",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "io-gt-dns-2",
-    "status": "up",
+    "status": "down",
     "uptime": "99.89%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.97%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.89%",
@@ -201,6 +209,7 @@
     "timeMonth": 0,
     "timeYear": 138,
     "dailyMinutesDown": {
+      "2022-11-22": 0,
       "2022-07-12": 341
     }
   },
@@ -209,9 +218,9 @@
     "url": "dns3.io.gt",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "io-gt-dns-3",
-    "status": "up",
+    "status": "down",
     "uptime": "99.99%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.97%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
@@ -221,6 +230,7 @@
     "timeMonth": 133,
     "timeYear": 123,
     "dailyMinutesDown": {
+      "2022-11-22": 0,
       "2022-06-16": 41
     }
   },
@@ -229,9 +239,9 @@
     "url": "dns4.io.gt",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "io-gt-dns-4",
-    "status": "up",
+    "status": "down",
     "uptime": "99.99%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
@@ -241,6 +251,7 @@
     "timeMonth": 132,
     "timeYear": 121,
     "dailyMinutesDown": {
+      "2022-11-22": 0,
       "2022-06-16": 40
     }
   }
