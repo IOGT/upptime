@@ -20,6 +20,7 @@ sites:
     url: $PBX_IOGT
   - name: IOGT HOSTING
     url: $IOGT_CPANEL
+    __dangerous__body_down_if_text_missing: "cPanel Login"
   - name: IO.GT DNS 1
     check: "tcp-ping"
     url: dns1.io.gt
