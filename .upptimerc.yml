@@ -9,6 +9,7 @@ sites:
       - 200
   - name: Client Area
     url: https://clientarea.io.gt
+    __dangerous__body_down: "Account Suspended"
     expectedStatusCodes:
       - 200
   - name: IOGT CLOUD
