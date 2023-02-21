@@ -137,19 +137,19 @@
     "url": "$PBX_IOGT",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "pbx-system-1",
-    "status": "down",
+    "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.98%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "98.96%",
+    "uptimeWeek": "99.85%",
+    "uptimeMonth": "99.97%",
     "uptimeYear": "100.00%",
     "time": 265,
-    "timeDay": 363,
-    "timeWeek": 311,
+    "timeDay": 320,
+    "timeWeek": 307,
     "timeMonth": 292,
     "timeYear": 265,
     "dailyMinutesDown": {
-      "2023-02-21": 0
+      "2023-02-21": 15
     }
   },
   {
