@@ -14,6 +14,7 @@ sites:
       - 200
   - name: IOGT CLOUD
     url: $CLOUD_SERVER
+    __dangerous__body_down_if_text_missing: "a safe home for all your data"
     expectedStatusCodes:
       - 200
   - name: PBX System 1
