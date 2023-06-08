@@ -69,7 +69,7 @@
     "url": "$CLOUD_SERVER",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "iogt-cloud",
-    "status": "up",
+    "status": "down",
     "uptime": "89.18%",
     "uptimeDay": "98.49%",
     "uptimeWeek": "99.58%",
