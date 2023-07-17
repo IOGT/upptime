@@ -6,9 +6,9 @@
     "slug": "io-gt-main-site",
     "status": "up",
     "uptime": "99.87%",
-    "uptimeDay": "99.46%",
-    "uptimeWeek": "99.92%",
-    "uptimeMonth": "99.92%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "99.94%",
     "uptimeYear": "99.88%",
     "time": 547,
     "timeDay": 1030,
@@ -16,7 +16,6 @@
     "timeMonth": 1312,
     "timeYear": 587,
     "dailyMinutesDown": {
-      "2023-07-16": 8,
       "2023-07-04": 26,
       "2023-06-02": 20,
       "2023-05-03": 15,
@@ -65,7 +64,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "iogt-cloud",
     "status": "down",
-    "uptime": "82.50%",
+    "uptime": "82.49%",
     "uptimeDay": "22.97%",
     "uptimeWeek": "30.96%",
     "uptimeMonth": "15.76%",
@@ -76,7 +75,8 @@
     "timeMonth": 2406,
     "timeYear": 1502,
     "dailyMinutesDown": {
-      "2023-07-16": 1101,
+      "2023-07-17": 61,
+      "2023-07-16": 1110,
       "2023-07-15": 1009,
       "2023-07-14": 997,
       "2023-07-13": 873,
@@ -194,8 +194,7 @@
       "2022-07-29": 285,
       "2022-07-27": 41,
       "2022-07-26": 151,
-      "2022-07-18": 883,
-      "2022-07-17": 1440
+      "2022-07-18": 883
     }
   },
   {
