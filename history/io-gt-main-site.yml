@@ -1,7 +1,7 @@
 url: https://io.gt
-status: up
-code: 200
-responseTime: 1990
-lastUpdated: 2023-10-18T14:56:57.623Z
+status: down
+code: 502
+responseTime: 242
+lastUpdated: 2023-10-18T17:09:53.311Z
 startTime: 2022-04-25T18:42:06.000Z
 generator: Upptime <https://github.com/upptime/upptime>
