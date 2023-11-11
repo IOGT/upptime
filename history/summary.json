@@ -71,19 +71,19 @@
     "url": "$CLOUD_SERVER",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "iogt-cloud",
-    "status": "up",
-    "uptime": "95.69%",
-    "uptimeDay": "86.52%",
-    "uptimeWeek": "97.85%",
-    "uptimeMonth": "95.55%",
-    "uptimeYear": "94.02%",
+    "status": "down",
+    "uptime": "95.73%",
+    "uptimeDay": "86.33%",
+    "uptimeWeek": "97.82%",
+    "uptimeMonth": "95.56%",
+    "uptimeYear": "94.06%",
     "time": 1242,
-    "timeDay": 8201,
-    "timeWeek": 1736,
-    "timeMonth": 1191,
-    "timeYear": 1307,
+    "timeDay": 6230,
+    "timeWeek": 1665,
+    "timeMonth": 1176,
+    "timeYear": 1306,
     "dailyMinutesDown": {
-      "2023-11-11": 194,
+      "2023-11-11": 197,
       "2023-11-05": 23,
       "2023-11-02": 39,
       "2023-11-01": 20,
@@ -138,8 +138,7 @@
       "2023-07-18": 761,
       "2023-07-17": 1168,
       "2023-07-16": 1110,
-      "2023-07-15": 1009,
-      "2023-07-14": 237
+      "2023-07-15": 1009
     }
   },
   {
@@ -295,7 +294,7 @@
     "timeMonth": 0,
     "timeYear": 134,
     "dailyMinutesDown": {
-      "2023-11-11": 1414,
+      "2023-11-11": 1421,
       "2023-11-10": 1440,
       "2023-11-09": 1440,
       "2023-11-08": 1440,
@@ -432,7 +431,7 @@
     "timeMonth": 0,
     "timeYear": 134,
     "dailyMinutesDown": {
-      "2023-11-11": 1414,
+      "2023-11-11": 1421,
       "2023-11-10": 1440,
       "2023-11-09": 1440,
       "2023-11-08": 1440,
