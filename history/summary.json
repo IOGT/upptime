@@ -11,9 +11,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.72%",
     "time": 1088,
-    "timeDay": 558,
-    "timeWeek": 391,
-    "timeMonth": 464,
+    "timeDay": 171,
+    "timeWeek": 384,
+    "timeMonth": 461,
     "timeYear": 1260,
     "dailyMinutesDown": {
       "2023-10-19": 252,
@@ -24,8 +24,7 @@
       "2023-06-02": 20,
       "2023-05-03": 15,
       "2023-04-21": 22,
-      "2023-02-14": 15,
-      "2022-12-11": 15
+      "2023-02-14": 15
     }
   },
   {
@@ -39,10 +38,10 @@
     "uptimeWeek": "92.71%",
     "uptimeMonth": "98.32%",
     "uptimeYear": "99.59%",
-    "time": 693,
-    "timeDay": 567,
-    "timeWeek": 649,
-    "timeMonth": 635,
+    "time": 692,
+    "timeDay": 522,
+    "timeWeek": 654,
+    "timeMonth": 637,
     "timeYear": 703,
     "dailyMinutesDown": {
       "2023-12-10": 735,
@@ -61,8 +60,7 @@
       "2023-03-10": 151,
       "2023-02-14": 15,
       "2023-02-10": 5,
-      "2022-12-20": 7,
-      "2022-12-11": 15
+      "2022-12-20": 7
     }
   },
   {
@@ -71,18 +69,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "iogt-cloud",
     "status": "down",
-    "uptime": "92.10%",
+    "uptime": "92.03%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
-    "uptimeMonth": "27.49%",
-    "uptimeYear": "88.41%",
+    "uptimeMonth": "26.08%",
+    "uptimeYear": "88.29%",
     "time": 1242,
-    "timeDay": 69,
-    "timeWeek": 125,
-    "timeMonth": 1549,
-    "timeYear": 1317,
+    "timeDay": 130,
+    "timeWeek": 127,
+    "timeMonth": 1539,
+    "timeYear": 1315,
     "dailyMinutesDown": {
-      "2023-12-10": 865,
+      "2023-12-11": 43,
+      "2023-12-10": 1440,
       "2023-12-09": 1440,
       "2023-12-08": 1440,
       "2023-12-07": 1440,
@@ -175,10 +174,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.81%",
     "time": 282,
-    "timeDay": 225,
-    "timeWeek": 294,
-    "timeMonth": 299,
-    "timeYear": 287,
+    "timeDay": 268,
+    "timeWeek": 289,
+    "timeMonth": 304,
+    "timeYear": 286,
     "dailyMinutesDown": {
       "2023-07-13": 134,
       "2023-06-22": 48,
@@ -201,10 +200,10 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.96%",
-    "time": 1524,
-    "timeDay": 884,
-    "timeWeek": 3594,
-    "timeMonth": 2183,
+    "time": 1531,
+    "timeDay": 4686,
+    "timeWeek": 3590,
+    "timeMonth": 2318,
     "timeYear": 1511,
     "dailyMinutesDown": {
       "2023-11-01": 33,
@@ -213,8 +212,7 @@
       "2023-06-02": 20,
       "2023-05-13": 25,
       "2023-05-03": 15,
-      "2023-02-14": 16,
-      "2022-12-11": 15
+      "2023-02-14": 16
     }
   },
   {
@@ -229,9 +227,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.98%",
     "time": 162,
-    "timeDay": 147,
-    "timeWeek": 153,
-    "timeMonth": 151,
+    "timeDay": 149,
+    "timeWeek": 154,
+    "timeMonth": 152,
     "timeYear": 162,
     "dailyMinutesDown": {
       "2023-11-08": 19,
@@ -239,8 +237,7 @@
       "2023-10-31": 15,
       "2023-06-02": 20,
       "2023-05-03": 15,
-      "2023-02-14": 16,
-      "2022-12-11": 15
+      "2023-02-14": 16
     }
   },
   {
@@ -255,9 +252,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.98%",
     "time": 162,
-    "timeDay": 147,
-    "timeWeek": 153,
-    "timeMonth": 151,
+    "timeDay": 149,
+    "timeWeek": 154,
+    "timeMonth": 152,
     "timeYear": 162,
     "dailyMinutesDown": {
       "2023-11-08": 19,
@@ -265,8 +262,7 @@
       "2023-10-31": 15,
       "2023-06-02": 20,
       "2023-05-03": 15,
-      "2023-02-14": 16,
-      "2022-12-11": 15
+      "2023-02-14": 16
     }
   },
   {
@@ -291,8 +287,7 @@
       "2023-07-03": 37,
       "2023-06-02": 20,
       "2023-05-03": 15,
-      "2023-02-14": 16,
-      "2022-12-11": 16
+      "2023-02-14": 16
     }
   },
   {
@@ -301,18 +296,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "io-gt-dns-3",
     "status": "down",
-    "uptime": "76.15%",
+    "uptime": "76.09%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "1.38%",
-    "uptimeYear": "61.20%",
+    "uptimeYear": "61.09%",
     "time": 132,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
     "timeYear": 134,
     "dailyMinutesDown": {
-      "2023-12-10": 866,
+      "2023-12-11": 43,
+      "2023-12-10": 1440,
       "2023-12-09": 1440,
       "2023-12-08": 1440,
       "2023-12-07": 1440,
@@ -456,8 +452,7 @@
       "2023-07-22": 1382,
       "2023-06-02": 20,
       "2023-05-03": 15,
-      "2023-02-14": 16,
-      "2022-12-11": 16
+      "2023-02-14": 16
     }
   },
   {
@@ -466,18 +461,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "io-gt-dns-4",
     "status": "down",
-    "uptime": "76.15%",
+    "uptime": "76.09%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "1.38%",
-    "uptimeYear": "61.20%",
+    "uptimeYear": "61.09%",
     "time": 132,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
     "timeYear": 135,
     "dailyMinutesDown": {
-      "2023-12-10": 866,
+      "2023-12-11": 43,
+      "2023-12-10": 1440,
       "2023-12-09": 1440,
       "2023-12-08": 1440,
       "2023-12-07": 1440,
@@ -621,8 +617,7 @@
       "2023-07-22": 1380,
       "2023-06-02": 20,
       "2023-05-03": 15,
-      "2023-02-14": 16,
-      "2022-12-11": 16
+      "2023-02-14": 16
     }
   }
 ]
