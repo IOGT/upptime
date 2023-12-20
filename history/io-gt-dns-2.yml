@@ -1,7 +1,7 @@
 url: dns2.io.gt
-status: down
-code: 0
-responseTime: 0
-lastUpdated: 2023-12-20T14:36:54.829Z
+status: up
+code: 200
+responseTime: 144
+lastUpdated: 2023-12-20T14:44:27.013Z
 startTime: 2022-04-25T18:48:45.000Z
 generator: Upptime <https://github.com/upptime/upptime>
