@@ -1,7 +1,7 @@
 url: $IOGT_CPANEL
-status: down
-code: 0
-responseTime: 0
-lastUpdated: 2024-02-29T09:38:57.654Z
+status: up
+code: 200
+responseTime: 615
+lastUpdated: 2024-02-29T09:44:14.435Z
 startTime: 2022-04-25T18:42:09.000Z
 generator: Upptime <https://github.com/upptime/upptime>
