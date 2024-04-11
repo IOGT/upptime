@@ -69,9 +69,9 @@
     "url": "$CLOUD_SERVER",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "iogt-cloud",
-    "status": "up",
+    "status": "down",
     "uptime": "92.42%",
-    "uptimeDay": "60.94%",
+    "uptimeDay": "60.92%",
     "uptimeWeek": "94.42%",
     "uptimeMonth": "94.45%",
     "uptimeYear": "86.32%",
@@ -184,7 +184,7 @@
       "2023-08-01": 352,
       "2023-07-31": 1246,
       "2023-07-30": 1433,
-      "2023-07-29": 151
+      "2023-07-29": 136
     }
   },
   {
@@ -327,7 +327,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "io-gt-dns-3",
     "status": "up",
-    "uptime": "79.38%",
+    "uptime": "79.39%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.77%",
@@ -497,7 +497,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "io-gt-dns-4",
     "status": "up",
-    "uptime": "79.38%",
+    "uptime": "79.39%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.77%",
