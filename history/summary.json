@@ -66,18 +66,19 @@
     "url": "$CLOUD_SERVER",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "iogt-cloud",
-    "status": "up",
+    "status": "down",
     "uptime": "92.43%",
-    "uptimeDay": "92.82%",
+    "uptimeDay": "92.97%",
     "uptimeWeek": "71.88%",
     "uptimeMonth": "89.09%",
     "uptimeYear": "85.85%",
-    "time": 1399,
+    "time": 1400,
     "timeDay": 468,
     "timeWeek": 2061,
     "timeMonth": 1355,
     "timeYear": 1407,
     "dailyMinutesDown": {
+      "2024-05-05": 0,
       "2024-05-04": 148,
       "2024-05-03": 575,
       "2024-05-02": 1424,
@@ -189,7 +190,7 @@
       "2023-08-04": 45,
       "2023-08-03": 109,
       "2023-08-01": 352,
-      "2023-07-31": 1098
+      "2023-07-31": 1066
     }
   },
   {
