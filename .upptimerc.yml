@@ -42,6 +42,9 @@ sites:
     check: "tcp-ping"
     url: dns4.io.gt
     port: 53
+  - name: Speedtest server
+    url: $SPEEDTEST_SERVER
+    __dangerous__body_down_if_text_missing: "test=test"
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
