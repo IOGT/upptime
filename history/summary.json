@@ -64,18 +64,19 @@
     "url": "$CLOUD_SERVER",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "iogt-cloud",
-    "status": "up",
-    "uptime": "92.40%",
-    "uptimeDay": "69.47%",
-    "uptimeWeek": "95.44%",
-    "uptimeMonth": "88.48%",
+    "status": "down",
+    "uptime": "92.41%",
+    "uptimeDay": "69.42%",
+    "uptimeWeek": "95.43%",
+    "uptimeMonth": "88.53%",
     "uptimeYear": "85.16%",
-    "time": 1390,
+    "time": 1391,
     "timeDay": 1773,
     "timeWeek": 871,
     "timeMonth": 1691,
     "timeYear": 1328,
     "dailyMinutesDown": {
+      "2024-06-05": 1,
       "2024-06-04": 439,
       "2024-05-31": 20,
       "2024-05-22": 216,
@@ -197,8 +198,7 @@
       "2023-08-06": 65,
       "2023-08-05": 131,
       "2023-08-04": 45,
-      "2023-08-03": 109,
-      "2023-08-01": 15
+      "2023-08-03": 109
     }
   },
   {
@@ -665,10 +665,10 @@
     "url": "$SPEEDTEST_SERVER",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "speedtest-server",
-    "status": "up",
+    "status": "down",
     "uptime": "96.58%",
-    "uptimeDay": "69.52%",
-    "uptimeWeek": "95.65%",
+    "uptimeDay": "69.48%",
+    "uptimeWeek": "95.64%",
     "uptimeMonth": "96.58%",
     "uptimeYear": "96.58%",
     "time": 224,
@@ -677,6 +677,7 @@
     "timeMonth": 224,
     "timeYear": 224,
     "dailyMinutesDown": {
+      "2024-06-05": 1,
       "2024-06-04": 439,
       "2024-05-22": 216,
       "2024-05-21": 193
