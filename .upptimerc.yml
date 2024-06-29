@@ -45,6 +45,11 @@ sites:
   - name: Speedtest server
     url: $SPEEDTEST_SERVER
     __dangerous__body_down_if_text_missing: "test=test"
+  - name: WHA.GT API
+    url: $WHAGT_API
+    expectedStatusCodes:
+      - 200
+    __dangerous__body_down_if_text_missing: "createdAt"
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
