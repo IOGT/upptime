@@ -4,7 +4,7 @@ repo: upptime # The name of this repository
 
 sites:
   - name: IO.GT MAIN SITE
-    url: https://io.gt
+    url: https://www.io.gt
     expectedStatusCodes:
       - 200
   - name: Client Area
@@ -42,9 +42,6 @@ sites:
     check: "tcp-ping"
     url: dns4.io.gt
     port: 53
-  - name: Speedtest server
-    url: $SPEEDTEST_SERVER
-    __dangerous__body_down_if_text_missing: "test=test"
   - name: WHA.GT API
     url: $WHAGT_API
     expectedStatusCodes:
