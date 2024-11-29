@@ -5,18 +5,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.io.gt.ico",
     "slug": "io-gt-main-site",
     "status": "down",
-    "uptime": "95.12%",
+    "uptime": "95.11%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
-    "uptimeYear": "87.74%",
+    "uptimeYear": "87.73%",
     "time": 1212,
     "timeDay": 184,
     "timeWeek": 163,
     "timeMonth": 349,
     "timeYear": 874,
     "dailyMinutesDown": {
-      "2024-11-28": 1428,
+      "2024-11-29": 59,
+      "2024-11-28": 1440,
       "2024-11-27": 1440,
       "2024-11-26": 1440,
       "2024-11-25": 1440,
@@ -80,14 +81,15 @@
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
-    "uptimeYear": "87.83%",
+    "uptimeYear": "87.81%",
     "time": 693,
     "timeDay": 134,
     "timeWeek": 147,
     "timeMonth": 150,
     "timeYear": 687,
     "dailyMinutesDown": {
-      "2024-11-28": 1428,
+      "2024-11-29": 59,
+      "2024-11-28": 1440,
       "2024-11-27": 1440,
       "2024-11-26": 1440,
       "2024-11-25": 1440,
@@ -418,7 +420,7 @@
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "95.13%",
+    "uptimeYear": "95.14%",
     "time": 110,
     "timeDay": 100,
     "timeWeek": 98,
@@ -442,8 +444,7 @@
       "2023-12-04": 1440,
       "2023-12-03": 1440,
       "2023-12-02": 1440,
-      "2023-12-01": 1440,
-      "2023-11-30": 1440
+      "2023-12-01": 1440
     }
   },
   {
@@ -456,7 +457,7 @@
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "95.13%",
+    "uptimeYear": "95.14%",
     "time": 108,
     "timeDay": 101,
     "timeWeek": 99,
@@ -480,8 +481,7 @@
       "2023-12-04": 1440,
       "2023-12-03": 1440,
       "2023-12-02": 1440,
-      "2023-12-01": 1440,
-      "2023-11-30": 1440
+      "2023-12-01": 1440
     }
   },
   {
