@@ -1,7 +1,7 @@
 url: $WHAGT_API
-status: down
-code: 502
-responseTime: 379
-lastUpdated: 2025-02-02T15:46:27.296Z
+status: up
+code: 200
+responseTime: 299
+lastUpdated: 2025-02-02T15:53:54.896Z
 startTime: 2024-06-29T22:40:32.517Z
 generator: Upptime <https://github.com/upptime/upptime>
