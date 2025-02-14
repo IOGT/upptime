@@ -17,8 +17,12 @@ sites:
     __dangerous__body_down_if_text_missing: "a safe home for all your data"
     expectedStatusCodes:
       - 200
+  - name: PBX System Core
+    url: $PBX_IOGT_CORE
   - name: PBX System 1
     url: $PBX_IOGT
+  - name: PBX System 2
+    url: $PBX_IOGT2
   - name: IOGT HOSTING
     url: $IOGT_CPANEL
     __dangerous__body_down_if_text_missing: "cPanel Login"
