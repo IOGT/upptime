@@ -1,7 +1,7 @@
 url: $PBX_IOGT2
-status: up
-code: 200
-responseTime: 382
-lastUpdated: 2025-03-03T23:10:19.330Z
+status: down
+code: 404
+responseTime: 33
+lastUpdated: 2025-03-04T18:37:28.264Z
 startTime: 2025-02-14T22:46:23.070Z
 generator: Upptime <https://github.com/upptime/upptime>
