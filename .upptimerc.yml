@@ -21,7 +21,7 @@ sites:
     url: $PBX_IOGT_CORE
   - name: PBX System 1
     url: $PBX_IOGT
-  - name: PBX System 2
+  - name: PBX System Noj
     url: $NOJ_PBX_GT
   - name: IOGT HOSTING
     url: $IOGT_CPANEL
