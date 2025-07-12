@@ -1,7 +1,7 @@
 url: $CLOUD_SERVER
 status: down
 code: 503
-responseTime: 600
-lastUpdated: 2025-07-11T23:12:02.287Z
+responseTime: 438
+lastUpdated: 2025-07-12T23:12:23.583Z
 startTime: 2022-06-22T21:14:44.000Z
 generator: Upptime <https://github.com/upptime/upptime>
